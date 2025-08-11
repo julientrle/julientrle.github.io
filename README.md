@@ -1,3 +1,4 @@
 # julientrle.github.io
 Expert Marketing Digital
-<div>Bonjour</div>
+<link rel="stylesheet" href="css.css">
+<div class="header">Bonjour</div>
