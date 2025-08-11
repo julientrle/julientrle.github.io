@@ -1,4 +1,4 @@
 # julientrle.github.io
 Expert Marketing Digital
 <link rel="stylesheet" href="css.css">
-<div class="header">Bonjour</div>
+<div styles="color: #0000; background-color: #0000;">Bonjour</div>
